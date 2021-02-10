@@ -1,2 +1,2 @@
 # vault
-All the resources I uses!
+All the resources I use!
